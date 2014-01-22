@@ -1,0 +1,27 @@
+Quality control is an important task, and at the same time a tedious
+one. Time consuming to do by hand, it is costly for many companies,
+and it is generally desired that the process can be cheapened and
+expedited. In the case of a product with simple operation and modes
+of failure, this desire is only intensified, since the expense
+involved in manual testing seems entirely inappropriate. So the
+ability to automate quality control, to carry it out more quickly and
+thus at a lower expense of labour, is certainly to be desired, and in
+this day and age with readily available tools and techniques of
+automation, indeed seems necessary. It is to this end that we propose
+an automated system to test the LED candle lights produced by this
+company[fn:1]. 
+
+Each LED candle light is simple to operate, only requiring the
+sliding of a single linear switch, which can easily be operated by a
+machine. Further, there are only two, related, modes of failure of
+concern: either the LED does not flicker, or it does not turn on at
+all. Given the low complexity of these devices, automation is clearly
+feasible for quality control purposes. This proposal further
+demonstrates that feasibility, and further shows the manner in which
+this automation could be implemented at a low initial cost so as to
+reduce expense in the future.
+
+* Footnotes
+
+[fn:1] What should we call this company? Current phrasing is a tad awkward.
+

@@ -1,0 +1,42 @@
+#+TODO: TODO(t) Natalie(n) Sam(s) | DONE
+* Info
+** TA: Rail-Ip
+* General
+** DONE Read Chapter 1 of course text
+DEADLINE: <2014-01-10 Fri>
+** DONE Reread Chapter 1, w/ focus on RFP
+* Milestones
+** Project Proposal
+DEADLINE: <2014-01-29 Wed 14:00>
+*** Requirements
+- Sketches (10-25 pages recommended)
+- Back of the envelope calculations
+- Documentation of critical components
+- Ack. issues of cost and complexity
+- Consider issue of reliability and FoS
+- Task assignments to group members
+- Schedule, in form of Gantt charts
+- Bound in blue or grey report cover
+- Staple affixing pages to the inside of the back cover
+- Submit PDF on Portal for bonus 1.5%
+*** DONE Check Org-mode support for Gantt charts
+[[http://orgmode.org/worg/org-tutorials/org-taskjuggler.html][Org Mode export to TaskJuggler]]
+[[http://www.devalot.com/articles/2008/07/project-planning][Project Planning in Org Mode]]
+** Individual Performance Evaluation #1
+DEADLINE: <2014-02-05 Wed>
+*** Electromechanical Requirements
+- Detailed analysis
+- Tray, frame, and structure complete
+- Full functionality of one actuator
+** Design Notebook Midterm Evaluation
+DEADLINE: <2014-02-12 Wed 18:00>
+** Individual Performance Evaluation #2
+DEADLINE: <2014-02-26 Wed>
+** Team Progress Evaluation
+DEADLINE: <2014-03-12 Wed>
+** Team Project Evaluation
+DEADLINE: <2014-03-26 Wed>
+** Final Report
+DEADLINE: <2014-04-11 Fri 17:00>
+** Design Notebook Final Evaluation
+DEADLINE: <2014-04-11 Fri 18:00>
